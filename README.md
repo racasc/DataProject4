@@ -7,7 +7,8 @@ Convertir las imagenes de dicom a jpg
 
 Modelo de Entrenamiento:
 
-[Modelo](https://github.com/racasc/DataProject4/blob/main/Data_Project_4.ipynb)
+- [Modelo](https://github.com/racasc/DataProject4/blob/main/Data_Project_4.ipynb)
 
 Resultado:
+
 F1 score = 0,89939
