@@ -6,6 +6,7 @@ Convertir las imagenes de dicom a jpg
 - [train](https://github.com/racasc/DataProject4/blob/main/train_jpg.ipynb)
 
 Modelo de Entrenamiento:
+
 [Modelo](https://github.com/racasc/DataProject4/blob/main/Data_Project_4.ipynb)
 
 Resultado:
